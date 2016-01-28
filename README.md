@@ -15,10 +15,12 @@ express简单服务器搭建－Mac环境开发:http://blog.csdn.net/z040145/arti
 
 mysql的使用－Mac环境开发:http://blog.csdn.net/z040145/article/details/50435148
 
+
 项目简介:
 
 一个简单封装的nodejs工程，做了MVC架构，安装了mysql模块。 使用时需要本地安装mysql环境。  
 本项目制作环境与Mac系统，在linux或者windows上开发时要自行调试。  
+
 
 项目制作环境:
 
